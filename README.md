@@ -12,7 +12,7 @@ Types of tokenization:
 character
 word
 sentence
-byte pairs.
+byte pairs
 
 
 
